@@ -15,7 +15,7 @@ const Conatiner = styled.div`
     height: 100%;
     z-index: -1;
     width: 100%;
-    max-height: 960px;
+    max-height: 980px;
     min-height: 500px;
   }
   .hero-content {
