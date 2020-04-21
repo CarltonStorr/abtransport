@@ -140,6 +140,8 @@ function Contact() {
         method="POST"
         className="email-form"
         onSubmit={handleSubmit}
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
       >
         <input type="hidden" name="form-name" value="contact" />
         <div className="inputs">
