@@ -69,7 +69,7 @@ const Container = styled.div`
 `;
 function Instagram({ data }) {
   const captions1 = [
-    "Moving Equipments",
+    "Moving Equipment",
     "Providing Drivers",
     "Driver Training",
     "Establishing Fleet Leasing"
